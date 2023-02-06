@@ -1,0 +1,15 @@
+C:\Users\riya.fathima\source\repos\Q9\bin\Debug\net6.0\Q9.exe
+C:\Users\riya.fathima\source\repos\Q9\bin\Debug\net6.0\Q9.deps.json
+C:\Users\riya.fathima\source\repos\Q9\bin\Debug\net6.0\Q9.runtimeconfig.json
+C:\Users\riya.fathima\source\repos\Q9\bin\Debug\net6.0\Q9.dll
+C:\Users\riya.fathima\source\repos\Q9\bin\Debug\net6.0\Q9.pdb
+C:\Users\riya.fathima\source\repos\Q9\obj\Debug\net6.0\Q9.csproj.AssemblyReference.cache
+C:\Users\riya.fathima\source\repos\Q9\obj\Debug\net6.0\Q9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riya.fathima\source\repos\Q9\obj\Debug\net6.0\Q9.AssemblyInfoInputs.cache
+C:\Users\riya.fathima\source\repos\Q9\obj\Debug\net6.0\Q9.AssemblyInfo.cs
+C:\Users\riya.fathima\source\repos\Q9\obj\Debug\net6.0\Q9.csproj.CoreCompileInputs.cache
+C:\Users\riya.fathima\source\repos\Q9\obj\Debug\net6.0\Q9.dll
+C:\Users\riya.fathima\source\repos\Q9\obj\Debug\net6.0\refint\Q9.dll
+C:\Users\riya.fathima\source\repos\Q9\obj\Debug\net6.0\Q9.pdb
+C:\Users\riya.fathima\source\repos\Q9\obj\Debug\net6.0\Q9.genruntimeconfig.cache
+C:\Users\riya.fathima\source\repos\Q9\obj\Debug\net6.0\ref\Q9.dll

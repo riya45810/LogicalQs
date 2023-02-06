@@ -1,0 +1,15 @@
+C:\Users\riya.fathima\source\repos\Q4\Q15\bin\Debug\net6.0\Q15.exe
+C:\Users\riya.fathima\source\repos\Q4\Q15\bin\Debug\net6.0\Q15.deps.json
+C:\Users\riya.fathima\source\repos\Q4\Q15\bin\Debug\net6.0\Q15.runtimeconfig.json
+C:\Users\riya.fathima\source\repos\Q4\Q15\bin\Debug\net6.0\Q15.dll
+C:\Users\riya.fathima\source\repos\Q4\Q15\bin\Debug\net6.0\Q15.pdb
+C:\Users\riya.fathima\source\repos\Q4\Q15\obj\Debug\net6.0\Q15.csproj.AssemblyReference.cache
+C:\Users\riya.fathima\source\repos\Q4\Q15\obj\Debug\net6.0\Q15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riya.fathima\source\repos\Q4\Q15\obj\Debug\net6.0\Q15.AssemblyInfoInputs.cache
+C:\Users\riya.fathima\source\repos\Q4\Q15\obj\Debug\net6.0\Q15.AssemblyInfo.cs
+C:\Users\riya.fathima\source\repos\Q4\Q15\obj\Debug\net6.0\Q15.csproj.CoreCompileInputs.cache
+C:\Users\riya.fathima\source\repos\Q4\Q15\obj\Debug\net6.0\Q15.dll
+C:\Users\riya.fathima\source\repos\Q4\Q15\obj\Debug\net6.0\refint\Q15.dll
+C:\Users\riya.fathima\source\repos\Q4\Q15\obj\Debug\net6.0\Q15.pdb
+C:\Users\riya.fathima\source\repos\Q4\Q15\obj\Debug\net6.0\Q15.genruntimeconfig.cache
+C:\Users\riya.fathima\source\repos\Q4\Q15\obj\Debug\net6.0\ref\Q15.dll
